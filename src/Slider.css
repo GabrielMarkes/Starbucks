@@ -4,14 +4,12 @@
 
 }
 .slider{
-    height: 500px;
-    width: 1200px;
+    height: 550px;
     position: absolute; 
     overflow: hidden;
     margin-top: 110px;
     left: 35.5%;
     background-color: white;
-    
 }
 .navigation-bar{
     position: absolute;
